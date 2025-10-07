@@ -1,0 +1,24 @@
+# Virtuální prostředí
+.venv/
+venv/
+
+# Soubory s cache
+__pycache__/
+*.py[cod]
+
+# Nastavení editorů/IDE
+*.swp
+*.sublime-workspace
+*.sublime-project
+.idea/
+.vscode/
+
+# Výstupy testů a logy
+*.log
+*.coverage
+htmlcov/
+
+# Distribuční balíčky
+dist/
+build/
+*.egg-info/
